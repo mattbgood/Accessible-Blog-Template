@@ -1,0 +1,114 @@
+body {
+  background-color: #f9e5bc;
+}
+
+.logo {
+  text-align: left;
+  display: inline-block;
+  height: 165px;
+  width: 165px;
+}
+
+h1 {
+  color: #2f4f4f;
+  font-family: georgia;
+  font-size: 2em;
+  text-align: left;
+  margin-left: 8.5%;
+}
+
+.timewrap {
+  display: inline-block;
+  text-align: left;
+  margin-left: 8.5%;
+}
+
+time {
+  color: #2f4f4f;
+  font-family: georgia;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#articlecontent {
+  color: #000000;
+  font-family: georgia;
+  font-size: 1em;
+  line-height: 150%;
+  max-width: 80ch;
+  text-align: left;
+  margin-left: 8.5%;
+}
+
+.share {
+  display: inline-block;
+  text-align: left;
+  margin-left: 8.5%;
+}
+
+#facebook {
+  height: 32px;
+  width: 32px;
+}
+
+#twitter {
+  height: 32px;
+  width: 32px;
+}
+
+#instagram {
+  height: 32px;
+ width: 32px;
+}
+
+#linkedin {
+  height: 32px;
+  width: 32px;
+}
+
+a:link {
+  background-color: transparent;
+  font-family: georgia;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+a:visited {
+  background-color: transparent;
+  font-family: georgia;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+a:hover, 
+:focus {
+  background-color: transparent;
+  font-family: georgia;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:active {
+  background-color: transparent;
+  font-family: georgia;
+  font-size: 1.5em;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #000000;
+}
+
+#footercontent {
+  color: #ffffff;
+  font-family: georgia;
+  font-size: 1em;
+  font-weight: bold;
+  display: inline-block;
+  text-align: left;
+  margin-left: 8.5%;
+}
